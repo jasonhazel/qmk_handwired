@@ -1,0 +1,3 @@
+[submodule "sweeeeep/keymaps/jasonhazel"]
+	path = sweeeeep/keymaps/jasonhazel
+	url = /home/jason/qmk_keymap/
