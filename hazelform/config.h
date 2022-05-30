@@ -15,4 +15,6 @@
 #define MATRIX_ROW_PINS { E6, B4, B5 }
 #define MATRIX_COL_PINS { F7, B1, B3, B2, B6 }
 
+#define DIODE_DIRECTION COL2ROW
+
 #define DEBOUNCE 		5
