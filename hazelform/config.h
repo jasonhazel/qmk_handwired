@@ -3,8 +3,8 @@
 #include "config_common.h"
 
 #define DEVICE_VER		0x0001
-#define VENDOR_ID		0x4A48 // JH
-#define PPRODUCT_ID		0x4846 // HF
+#define VENDOR_ID		  0x4A48 // JH
+#define PRODUCT_ID		0x4846 // HF
 
 #define MANUFACTURER	jasonhazel
 #define PRODUCT			HazelForm
