@@ -1,6 +1,6 @@
 #pragma once
 
-#include "config_commong.h"
+#include "config_common.h"
 
 #define DEVICE_VER		0x0001
 #define VENDOR_ID		0x4A48 // JH
