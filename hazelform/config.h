@@ -12,8 +12,8 @@
 #define MATRIX_ROWS		3
 #define MATRIX_COLS		5
 
-#define MATRIX_ROW_PINS { E6, B4, B5 }
-#define MATRIX_COL_PINS { F7, B1, B3, B2, B6 }
+#define MATRIX_ROW_PINS { B5, B4, E6 }
+#define MATRIX_COL_PINS { B6, B2, B3, B1, F7 }
 
 #define DIODE_DIRECTION COL2ROW
 
